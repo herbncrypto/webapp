@@ -1,0 +1,435 @@
+{
+    "script": [
+        "/assets/vendor.d64ff7aedd14514d4ab2.js",
+        "/assets/app.d64ff7aedd14514d4ab2.js"
+    ],
+    "style": [
+        "/assets/app-5da3c553412cd91b5de3.css"
+    ],
+    "images": [
+        {
+            "original": "./src/app/assets/icons/100.svg",
+            "compiled": "/assets/undefined"
+        },
+        {
+            "original": "./src/app/assets/icons/bitcoin.svg",
+            "compiled": "/assets/undefined"
+        },
+        {
+            "original": "./src/app/assets/icons/bitshares.svg",
+            "compiled": "/assets/undefined"
+        },
+        {
+            "original": "./src/app/assets/icons/blockchain.svg",
+            "compiled": "/assets/undefined"
+        },
+        {
+            "original": "./src/app/assets/icons/calendar.svg",
+            "compiled": "/assets/undefined"
+        },
+        {
+            "original": "./src/app/assets/icons/chain.svg",
+            "compiled": "/assets/undefined"
+        },
+        {
+            "original": "./src/app/assets/icons/chatbox.svg",
+            "compiled": "/assets/undefined"
+        },
+        {
+            "original": "./src/app/assets/icons/chatboxes.svg",
+            "compiled": "/assets/undefined"
+        },
+        {
+            "original": "./src/app/assets/icons/chevron-down-circle.svg",
+            "compiled": "/assets/undefined"
+        },
+        {
+            "original": "./src/app/assets/icons/chevron-left.svg",
+            "compiled": "/assets/undefined"
+        },
+        {
+            "original": "./src/app/assets/icons/chevron-up-circle.svg",
+            "compiled": "/assets/undefined"
+        },
+        {
+            "original": "./src/app/assets/icons/clock.svg",
+            "compiled": "/assets/undefined"
+        },
+        {
+            "original": "./src/app/assets/icons/cog.svg",
+            "compiled": "/assets/undefined"
+        },
+        {
+            "original": "./src/app/assets/icons/dropdown-arrow.svg",
+            "compiled": "/assets/undefined"
+        },
+        {
+            "original": "./src/app/assets/icons/edit.svg",
+            "compiled": "/assets/undefined"
+        },
+        {
+            "original": "./src/app/assets/icons/empty.svg",
+            "compiled": "/assets/undefined"
+        },
+        {
+            "original": "./src/app/assets/icons/enter.svg",
+            "compiled": "/assets/undefined"
+        },
+        {
+            "original": "./src/app/assets/icons/escodex.svg",
+            "compiled": "/assets/undefined"
+        },
+        {
+            "original": "./src/app/assets/icons/ether.svg",
+            "compiled": "/assets/undefined"
+        },
+        {
+            "original": "./src/app/assets/icons/exit.svg",
+            "compiled": "/assets/undefined"
+        },
+        {
+            "original": "./src/app/assets/icons/extlink.svg",
+            "compiled": "/assets/undefined"
+        },
+        {
+            "original": "./src/app/assets/icons/eye.svg",
+            "compiled": "/assets/undefined"
+        },
+        {
+            "original": "./src/app/assets/icons/facebook.svg",
+            "compiled": "/assets/undefined"
+        },
+        {
+            "original": "./src/app/assets/icons/flag1.svg",
+            "compiled": "/assets/undefined"
+        },
+        {
+            "original": "./src/app/assets/icons/flag2.svg",
+            "compiled": "/assets/undefined"
+        },
+        {
+            "original": "./src/app/assets/icons/flame.svg",
+            "compiled": "/assets/undefined"
+        },
+        {
+            "original": "./src/app/assets/icons/heart-o.svg",
+            "compiled": "/assets/undefined"
+        },
+        {
+            "original": "./src/app/assets/icons/heart.svg",
+            "compiled": "/assets/undefined"
+        },
+        {
+            "original": "./src/app/assets/icons/home.svg",
+            "compiled": "/assets/undefined"
+        },
+        {
+            "original": "./src/app/assets/icons/joint.svg",
+            "compiled": "/assets/undefined"
+        },
+        {
+            "original": "./src/app/assets/icons/key.svg",
+            "compiled": "/assets/undefined"
+        },
+        {
+            "original": "./src/app/assets/icons/lighter.svg",
+            "compiled": "/assets/undefined"
+        },
+        {
+            "original": "./src/app/assets/icons/line.svg",
+            "compiled": "/assets/undefined"
+        },
+        {
+            "original": "./src/app/assets/icons/link.svg",
+            "compiled": "/assets/undefined"
+        },
+        {
+            "original": "./src/app/assets/icons/linkedin.svg",
+            "compiled": "/assets/undefined"
+        },
+        {
+            "original": "./src/app/assets/icons/location.svg",
+            "compiled": "/assets/undefined"
+        },
+        {
+            "original": "./src/app/assets/icons/logo.svg",
+            "compiled": "/assets/undefined"
+        },
+        {
+            "original": "./src/app/assets/icons/logotype.svg",
+            "compiled": "/assets/undefined"
+        },
+        {
+            "original": "./src/app/assets/icons/mascot.svg",
+            "compiled": "/assets/undefined"
+        },
+        {
+            "original": "./src/app/assets/icons/match.svg",
+            "compiled": "/assets/undefined"
+        },
+        {
+            "original": "./src/app/assets/icons/medal.svg",
+            "compiled": "/assets/undefined"
+        },
+        {
+            "original": "./src/app/assets/icons/medal2.svg",
+            "compiled": "/assets/undefined"
+        },
+        {
+            "original": "./src/app/assets/icons/menu.svg",
+            "compiled": "/assets/undefined"
+        },
+        {
+            "original": "./src/app/assets/icons/more.svg",
+            "compiled": "/assets/undefined"
+        },
+        {
+            "original": "./src/app/assets/icons/password.svg",
+            "compiled": "/assets/undefined"
+        },
+        {
+            "original": "./src/app/assets/icons/pencil.svg",
+            "compiled": "/assets/undefined"
+        },
+        {
+            "original": "./src/app/assets/icons/pencil2.svg",
+            "compiled": "/assets/undefined"
+        },
+        {
+            "original": "./src/app/assets/icons/person.svg",
+            "compiled": "/assets/undefined"
+        },
+        {
+            "original": "./src/app/assets/icons/photo.svg",
+            "compiled": "/assets/undefined"
+        },
+        {
+            "original": "./src/app/assets/icons/popular_tags.svg",
+            "compiled": "/assets/undefined"
+        },
+        {
+            "original": "./src/app/assets/icons/printer.svg",
+            "compiled": "/assets/undefined"
+        },
+        {
+            "original": "./src/app/assets/icons/profile.svg",
+            "compiled": "/assets/undefined"
+        },
+        {
+            "original": "./src/app/assets/icons/quill.svg",
+            "compiled": "/assets/undefined"
+        },
+        {
+            "original": "./src/app/assets/icons/reblog.svg",
+            "compiled": "/assets/undefined"
+        },
+        {
+            "original": "./src/app/assets/icons/reddit.svg",
+            "compiled": "/assets/undefined"
+        },
+        {
+            "original": "./src/app/assets/icons/replies.svg",
+            "compiled": "/assets/undefined"
+        },
+        {
+            "original": "./src/app/assets/icons/reply.svg",
+            "compiled": "/assets/undefined"
+        },
+        {
+            "original": "./src/app/assets/icons/resmoke.svg",
+            "compiled": "/assets/undefined"
+        },
+        {
+            "original": "./src/app/assets/icons/rolling.svg",
+            "compiled": "/assets/undefined"
+        },
+        {
+            "original": "./src/app/assets/icons/rudex.svg",
+            "compiled": "/assets/undefined"
+        },
+        {
+            "original": "./src/app/assets/icons/search.svg",
+            "compiled": "/assets/undefined"
+        },
+        {
+            "original": "./src/app/assets/icons/share.svg",
+            "compiled": "/assets/undefined"
+        },
+        {
+            "original": "./src/app/assets/icons/smoke.svg",
+            "compiled": "/assets/undefined"
+        },
+        {
+            "original": "./src/app/assets/icons/steem.svg",
+            "compiled": "/assets/undefined"
+        },
+        {
+            "original": "./src/app/assets/icons/steemd.svg",
+            "compiled": "/assets/undefined"
+        },
+        {
+            "original": "./src/app/assets/icons/steemdb.svg",
+            "compiled": "/assets/undefined"
+        },
+        {
+            "original": "./src/app/assets/icons/steempower.svg",
+            "compiled": "/assets/undefined"
+        },
+        {
+            "original": "./src/app/assets/icons/tagspop.svg",
+            "compiled": "/assets/undefined"
+        },
+        {
+            "original": "./src/app/assets/icons/tifw.svg",
+            "compiled": "/assets/undefined"
+        },
+        {
+            "original": "./src/app/assets/icons/trash.svg",
+            "compiled": "/assets/undefined"
+        },
+        {
+            "original": "./src/app/assets/icons/trending.svg",
+            "compiled": "/assets/undefined"
+        },
+        {
+            "original": "./src/app/assets/icons/twitter.svg",
+            "compiled": "/assets/undefined"
+        },
+        {
+            "original": "./src/app/assets/icons/user.svg",
+            "compiled": "/assets/undefined"
+        },
+        {
+            "original": "./src/app/assets/icons/video.svg",
+            "compiled": "/assets/undefined"
+        },
+        {
+            "original": "./src/app/assets/icons/vote.svg",
+            "compiled": "/assets/undefined"
+        },
+        {
+            "original": "./src/app/assets/icons/voter.svg",
+            "compiled": "/assets/undefined"
+        },
+        {
+            "original": "./src/app/assets/icons/voters.svg",
+            "compiled": "/assets/undefined"
+        },
+        {
+            "original": "./src/app/assets/icons/wallet.svg",
+            "compiled": "/assets/undefined"
+        },
+        {
+            "original": "./src/app/assets/images/404.svg",
+            "compiled": "/assets/undefined"
+        },
+        {
+            "original": "./src/app/assets/images/facebook.svg",
+            "compiled": "/assets/undefined"
+        },
+        {
+            "original": "./src/app/assets/images/mascot.svg",
+            "compiled": "/assets/undefined"
+        },
+        {
+            "original": "./src/app/assets/images/reddit.svg",
+            "compiled": "/assets/undefined"
+        },
+        {
+            "original": "./src/app/assets/images/smoke.svg",
+            "compiled": "/assets/undefined"
+        },
+        {
+            "original": "./src/app/assets/images/smoke0.svg",
+            "compiled": "/assets/undefined"
+        },
+        {
+            "original": "./src/app/assets/images/vote.svg",
+            "compiled": "/assets/undefined"
+        },
+        {
+            "original": "./src/app/assets/images/qrcode.png",
+            "compiled": "/assets/undefined"
+        },
+        {
+            "original": "./src/app/assets/images/lp-bottom.jpg",
+            "compiled": "/assets/5a62ddee3f52f5a54f35991847747a8d.jpg"
+        },
+        {
+            "original": "./src/app/assets/images/for-you-tag.jpg",
+            "compiled": "/assets/fa181d68b6cc5eaa221cab2bc8c227da.jpg"
+        },
+        {
+            "original": "./src/app/assets/images/life-tag.jpg",
+            "compiled": "/assets/dba91e03a8c89a4fe75f9a373c1166e6.jpg"
+        },
+        {
+            "original": "./src/app/assets/images/grow-tag.jpg",
+            "compiled": "/assets/ede040c0aca5a0bdc0efc1419519268a.jpg"
+        },
+        {
+            "original": "./src/app/assets/images/edibles-tag.jpg",
+            "compiled": "/assets/9e85c5e41a6dc5d2a932cc84d23ddfc6.jpg"
+        },
+        {
+            "original": "./src/app/assets/images/nugporn-tag.jpg",
+            "compiled": "/assets/23b55cd7c2a8bbfa89c84601109e5a0e.jpg"
+        },
+        {
+            "original": "./src/app/assets/images/art-tag.jpg",
+            "compiled": "/assets/3bf78322c615026682a914890d3a4690.jpg"
+        },
+        {
+            "original": "./src/app/assets/images/news-tag.jpg",
+            "compiled": "/assets/9b50e6c4790b107897f8936f6e57a5ea.jpg"
+        },
+        {
+            "original": "./src/app/assets/images/cbd-tag.jpg",
+            "compiled": "/assets/c72a0a1f3e94252f4c7ff4b83fe7a1d9.jpg"
+        },
+        {
+            "original": "./src/app/assets/images/health-tag.jpg",
+            "compiled": "/assets/283ce7ea1ea2b77b758fe022ac91288f.jpg"
+        },
+        {
+            "original": "./src/app/assets/images/legalize-tag.jpg",
+            "compiled": "/assets/35e8b2b8b966c052b6ab65c12a3fb3c5.jpg"
+        },
+        {
+            "original": "./src/app/assets/images/nsfw-tag.jpg",
+            "compiled": "/assets/0a0a274483dd5f62463d15d26b49c570.jpg"
+        },
+        {
+            "original": "./src/app/assets/images/contest-tag.jpg",
+            "compiled": "/assets/7b89909bb8d0eedf364c07415575ff95.jpg"
+        },
+        {
+            "original": "./src/app/assets/images/dabs-tag.jpg",
+            "compiled": "/assets/25caf7ae24a046af692d118b949bf866.jpg"
+        },
+        {
+            "original": "./src/app/assets/images/strains-tag.jpg",
+            "compiled": "/assets/ed1e09921677b8ed40a39fa12ade158d.jpg"
+        },
+        {
+            "original": "./src/app/assets/images/review-tag.jpg",
+            "compiled": "/assets/481ac4fa9de4fe04cbd4fc14afa6960c.jpg"
+        },
+        {
+            "original": "./src/app/assets/images/smoking-tag.jpg",
+            "compiled": "/assets/5078b1a5791ffc89fa093c85debb0c16.jpg"
+        },
+        {
+            "original": "./src/app/assets/images/guide-tag.jpg",
+            "compiled": "/assets/d921a084827084ac572dccca830432bc.jpg"
+        },
+        {
+            "original": "./src/app/assets/images/offtopic-tag.jpg",
+            "compiled": "/assets/undefined"
+        },
+        {
+            "original": "./src/app/assets/images/witness-tag.jpg",
+            "compiled": "/assets/e272f56daa89508ab58032904b555452.jpg"
+        }
+    ]
+}
